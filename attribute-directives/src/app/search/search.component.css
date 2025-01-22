@@ -1,0 +1,15 @@
+.btn-search{
+    padding: 13px 30px;
+    background-color: black;
+    margin-left: 0px;
+    color: aliceblue;
+}
+
+.btn-search-disabled{
+    padding: 12px 30px;
+    background-color: #aaa;
+    margin-left: -1px;
+    color: #999;
+    border: #aaa 1px solid;
+    cursor: not-allowed;
+}

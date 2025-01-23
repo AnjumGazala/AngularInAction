@@ -25,7 +25,7 @@ export class ProductListComponent {
       discountPrice: 140,
       is_in_inventory: true,
       items_left : 3,
-      imageURL: "/assets/images/shoeImage1.jpg",
+      imageURL: "/assets/images/shoeImage5.jpg",
       slug: "nike-react-infinity-run-flyknit"
      },
      {

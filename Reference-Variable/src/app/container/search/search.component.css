@@ -1,0 +1,41 @@
+.ekart-search-product{
+    /* margin : 20px auto; */
+    text-align: center;
+    margin-left: 20%;
+}
+ .ekart-search-product-input{
+    width: 40%;
+     height: 4.8vh; 
+    /* padding: 8px 13px;  */
+    outline: none;
+    border-radius: 2px;
+    background-color: #efefef;
+    border: #282828 1px solid; 
+    padding: 10px;
+} 
+
+.btn{  
+    border: none;
+    border-radius: 0px; 
+    /* padding: 10px 13px;  
+    margin-top: -2px; */
+    height: 4.8vh; 
+ 
+}
+.btn-search{
+    background-color: #282828;  
+    color : #fff;
+    
+}
+.btn-search-disabled{
+    padding: 12px 30px;
+    background-color: #aaa;
+    margin-left: -1px;
+    color: #999;
+    border: #aaa 1px solid;
+    cursor: not-allowed;
+}
+.ekart-search-result-for{
+     margin: 20px auto;
+    padding: 10px 170px; 
+}
